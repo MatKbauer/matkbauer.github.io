@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: _Challenges are opportunities to grow_  #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoc in the <a href='https://cm.inf.uni-tuebingen.de/'>Neuro-Cognitive Modeling Group</a> at the University of Tübingen  # _Challenges are opportunities to grow_  #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
