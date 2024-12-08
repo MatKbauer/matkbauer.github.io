@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: _Challenges are opportunities to grow_
+subtitle: _Challenges are opportunities to grow_  #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -23,6 +22,6 @@ As a cognitive scientist by training, I learned to view and understand intellige
 
 Subsequently I decided to pursue a PhD in a socially and environmentally relevant topic: Weather Forecasting. At the University of Tübingen, my supervisor, Prof. Dr. Martin Butz, and I delved into the beauty and challenges of atmospheric sciences, simultaneously with Google, NVIDIA and Microsoft, and developed deep learning methods to improve global weather forecasts in colaboration with Prof. Dr. Dale Durran at the University of Washington, among many others.
 
-In March 2024, I obtained my PhD and continued as a PostDoc at the University of Tübingen with the Land-Atmospheric Feedback Initiative ([LAFI](https://www.dfg-lafi.de), at the University of Hohenheim), which unifies an interdisciplinary consortium of excellent researchers to better understand fine-scale processes that lead to convection, cloud formation, and precipitation.
+In March 2024, I obtained my PhD and continued as a PostDoc at the University of Tübingen with the Land-Atmospheric Feedback Initiative ([LAFI](https://www.lafi-dfg.de/), at the University of Hohenheim), which unifies an interdisciplinary consortium of excellent researchers to better understand fine-scale processes that lead to convection, cloud formation, and precipitation.
 
 I am an enthusiastic tinker and thinker, I love working on tough problems, and enjoy developing my professional coding skills, my personal mindset, as well as my social communication skills.
