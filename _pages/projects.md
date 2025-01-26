@@ -5,7 +5,7 @@ permalink: /projects/
 description: Some of my coding, tinkering, and construction projects. Work in progress...
 nav: true
 nav_order: 3
-display_categories: [work, fun, living]
+display_categories: [living, work, fun]
 horizontal: false
 ---
 

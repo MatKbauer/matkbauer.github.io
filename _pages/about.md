@@ -25,3 +25,7 @@ Subsequently I decided to pursue a PhD in a socially and environmentally relevan
 In March 2024, I obtained my PhD and continued as a PostDoc at the University of Tübingen with the Land-Atmospheric Feedback Initiative ([LAFI](https://www.lafi-dfg.de/), at the University of Hohenheim), which unifies an interdisciplinary consortium of excellent researchers to better understand fine-scale processes that lead to convection, cloud formation, and precipitation.
 
 I am an enthusiastic tinker and thinker, I love working on tough problems, and enjoy developing my professional coding skills, my personal mindset, as well as my social communication skills.
+
+# Learn More About my Research
+
+Watch my talk at the [AI4Good](https://aiforgood.itu.int/) Seminar Series on [YouTube](https://www.youtube.com/watch?v=RKJQYMnJV3M&list=PLQqkkIwS_4kXEEVm5T9IpRRUL5aqLoMqi&index=29).
