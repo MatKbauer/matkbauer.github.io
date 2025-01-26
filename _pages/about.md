@@ -26,6 +26,6 @@ In March 2024, I obtained my PhD and continued as a PostDoc at the University of
 
 I am an enthusiastic tinker and thinker, I love working on tough problems, and enjoy developing my professional coding skills, my personal mindset, as well as my social communication skills.
 
-# Learn More About my Research
+### learn more about my research
 
 Watch my talk at the [AI4Good](https://aiforgood.itu.int/) Seminar Series on [YouTube](https://www.youtube.com/watch?v=RKJQYMnJV3M&list=PLQqkkIwS_4kXEEVm5T9IpRRUL5aqLoMqi&index=29).
