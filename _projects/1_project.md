@@ -10,7 +10,7 @@ related_publications: false
 
 <div class="row justify-content-sm-center">
   <div class="col-sm mt-0 mt-md-0">
-    {% include figure.liquid path="assets/img/tiny/26_panorama.JPG" title="The inside of my TinyHome" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/tiny/26_panorama.jpeg" title="The inside of my TinyHome" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
@@ -34,7 +34,7 @@ After the design process and when I bought a truck where I could tie the TinyHou
 </div>
 
 <div class="row justify-content-sm-center">
-  <div class="col-sm-4 mt-3 mt-md-0">
+  <div class="col-sm-5 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/tiny/08_daemmung_innen.JPG" title="Me installing the sheep's wool insulation" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-8 mt-3 mt-md-0">
@@ -49,6 +49,6 @@ More pictures and details about the construction process to come...
 
 <div class="row justify-content-sm-center">
   <div class="col-sm mt-0 mt-md-0">
-    {% include figure.liquid path="assets/img/tiny/29_berlin-teltow.HEIC" title="Teltow, Berlin" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/tiny/29_berlin-teltow.jpeg" title="Teltow, Berlin" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
