@@ -37,7 +37,7 @@ After the design process and when I bought a truck where I could tie the TinyHou
   <div class="col-sm-5 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/tiny/08_daemmung_innen.JPG" title="Me installing the sheep's wool insulation" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="col-sm-8 mt-3 mt-md-0">
+  <div class="col-sm-7 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/tiny/13_zwischenstand.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
