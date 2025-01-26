@@ -2,11 +2,17 @@
 layout: page
 title: My TinyHouse on Wheels
 description: In 2021, I moved into my self-designed and self-built TinyHouse.
-img: assets/img/tiny/cover.png
+img: assets/img/tiny/22_schwarzwald.jpeg
 importance: 1
 category: living
 related_publications: false
 ---
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-0 mt-md-0">
+    {% include figure.liquid path="assets/img/tiny/26_panorama.JPG" title="The inside of my TinyHome" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
 
 The design and conceptualization took me about one year in advance. I created a 3D model in Blender and once generated a neat video which I still want to upload.
 
@@ -32,7 +38,7 @@ After the design process and when I bought a truck where I could tie the TinyHou
     {% include figure.liquid path="assets/img/tiny/08_daemmung_innen.JPG" title="Me installing the sheep's wool insulation" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/tiny/13_zwischenstand.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/tiny/13_zwischenstand.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
@@ -41,3 +47,8 @@ After the design process and when I bought a truck where I could tie the TinyHou
 
 More pictures and details about the construction process to come...
 
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-0 mt-md-0">
+    {% include figure.liquid path="assets/img/tiny/29_berlin-teltow.HEIC" title="Teltow, Berlin" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
